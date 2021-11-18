@@ -1,0 +1,1 @@
+document.getElementsByClassName("center")[0].style.display = "flex";
